@@ -1,2 +1,3 @@
 # ruby_practice
-Code challenges off Codewars
+Code kata challenges off Codewars 
+Profile: www.codewars.com/users/Chloeem
