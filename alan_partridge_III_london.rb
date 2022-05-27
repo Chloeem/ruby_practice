@@ -1,5 +1,5 @@
 #Check if a selection of words come up in an array, all must atleast once, return set strings
-#//////////
+#///////////
 # 1. Count up the occurances of 'Rejection', 'Disappointment', 'Backstabbing Central', 'Shattered Dreams Parkway'
 # 2. Store each within their own variable
 # 3. If each count is >= 1 return, 'Smell my cheese you mother!'
